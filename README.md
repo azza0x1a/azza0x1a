@@ -8,12 +8,12 @@
 
 ### 🚀 About Me
 🎓 I am currently still in school
+
 🔭 Actively developing: dorkingPRIB, Recon Automation Tools, & other pentest utilities
+
 🧠 Learning daily: Bug Bounty, Vulnerability Research, and Exploitation Techniques
+
 🎯 Career goal: Become a Professional Bug Bounty Hunter & Security Researcher
-💬 Ask me about: Python Automation, Reconnaissance, RCE, SSRF, CVEs, and Bash scripting
-🛠️ Tools I use: Burp Suite, httpx, ffuf, Subfinder, OASTify, myssrfbash.sh, and custom tools
-🥷 Fun fact: I automate almost everything — even reconnaissance and SSRF validation 😎
 
 ---
 
