@@ -9,7 +9,7 @@
 ### 🚀 About Me
 🎓 I am currently still in school
 
-🔭 Actively developing: dorkingPRIB, Recon Automation Tools, & other pentest utilities
+🔭 Actively developing: Recon Automation Tools, & other pentest utilities
 
 🧠 Learning daily: Bug Bounty, Vulnerability Research, and Exploitation Techniques
 
